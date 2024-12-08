@@ -1,5 +1,4 @@
-// mencoba upload ke github lagi.
-// hehe
+
 #include <iostream>
 #include <string>
 
